@@ -1,7 +1,6 @@
 package xyz.trinitek.statusserver.domain;
 
 /**
- * TODO description
+ * An unimplemented base class that represents a basic domain model.
  */
-public abstract class DomainModel {
-}
+public abstract class DomainModel { }

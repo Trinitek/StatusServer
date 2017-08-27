@@ -5,7 +5,7 @@ import org.bukkit.Server;
 import xyz.trinitek.statusserver.domain.ServerProfileProvider;
 
 /**
- * TODO description
+ * Implements {@link ServerProfileProvider} for the implementation models that are serializable to JSON.
  */
 public class ServerProfileProviderImpl implements ServerProfileProvider<ServerInfo, Heartbeat> {
 

@@ -10,7 +10,7 @@ import xyz.trinitek.statusserver.resource.HeartbeatResource;
 import xyz.trinitek.statusserver.resource.StatusResource;
 
 /**
- * TODO description
+ * Configures the REST service.
  */
 public class RestApplication extends Application {
 

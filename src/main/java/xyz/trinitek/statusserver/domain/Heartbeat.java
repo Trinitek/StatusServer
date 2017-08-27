@@ -4,7 +4,7 @@ import org.apache.commons.lang.NullArgumentException;
 import org.bukkit.Server;
 
 /**
- * TODO description
+ * Defines live information about the server that can change over time.
  */
 public class Heartbeat extends DomainModel {
 

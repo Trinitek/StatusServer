@@ -4,7 +4,7 @@ import com.google.inject.AbstractModule;
 import xyz.trinitek.statusserver.domain.ServerProfileProvider;
 
 /**
- * TODO description
+ * Configures the IoC container for {@link xyz.trinitek.statusserver.resource.StatusResource}.
  */
 public class StatusResourceModule extends AbstractModule {
 
