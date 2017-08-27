@@ -1,0 +1,6 @@
+name: StatusServer
+version: 1.0
+author: Trinitek
+main: xyz.trinitek.statusserver.PluginMain
+
+website: http://www.trinitek.xyz
